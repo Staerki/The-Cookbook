@@ -11,6 +11,7 @@ Author:
 
 
 ## Ingredients
+
 * Risotto rice
 * Chicken breast
 * Mushrooms
@@ -26,10 +27,12 @@ Author:
 * Ketchup
 
 ## Materials
+
 * 2 frying pans
 * 2 bowls
 
 ## Method
+
 1. In a bowl, pour olive oil (I would say at least 3 tablespoons), half a teaspoon of salt, cumin, paprika and ginger. Mix.
 2. Add the chicken breast in and soak it in the mix. Flip the chicken breast and put the mix everywhere on the meat. Cover the bowl and put it in the fridge for 20mins.
 3. Slice your mushrooms and your onion.
@@ -49,9 +52,11 @@ Author:
 <p align="center"> Enjoy! </p>
 
 ## Conclusion
+
 Omurice isn't too hard to make except for the final steps, you might break your omelette quite a few times. With some practice, these steps won't be a problem anymore!
 
 ## Discussion
+
 I like to add sesame seeds and provencal herbs to my omelette. You can add whatever you like in your eggs :)) <br>
 I know that japanese people likes to pour mayonnaise instead of ketchup on top of their omurice sometimes. Try both and you'll see which one is your fav! :D <br>
 If the pan technique is too hard for you, you can use a bowl to make your omurice:
