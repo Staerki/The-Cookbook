@@ -1,6 +1,6 @@
 # Omurice
 <p align="center">
-<img src="example.png" />
+<img src="hoh.jpg" />
 </p>
 
 Preparation: 45mins
