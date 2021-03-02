@@ -10,7 +10,7 @@ Author:
 <!-- (Replace the '{}' with the responding username or id) --!>
 
 
-##Ingredients
+## Ingredients
 
 * Risotto rice
 * Chicken breast
